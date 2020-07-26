@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Instagram- saatvik_gulati
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I am into gaming mobile or laptop doesn't matter
+
+![States](https://github-readme-stats.vercel.app/api?username=saatvikgulati&&show_icons=true&title_color=f0adbe&icon_color=44bcd8&text_color=dfe8e3&bg_color=151515)
