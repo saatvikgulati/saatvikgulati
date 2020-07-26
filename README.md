@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on GitHub or Instagram
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about tech related stuff
-- 📫 How to reach me: Instagram - [saatvik_gulati](https://www.instagram.com/saatvik_gulati/)
+- 📫 How to reach me: Instagram - [saatvik_gulati](https://www.instagram.com/saatvik_gulati/) Twitter- [saatvik_gulati](https://twitter.com/saatvik_gulati)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I am into gaming mobile or laptop doesn't matter
 
