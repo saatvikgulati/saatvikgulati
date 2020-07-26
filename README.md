@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about tech related stuff
 - 📫 How to reach me: Instagram - [saatvik_gulati](https://www.instagram.com/saatvik_gulati/) <br/>
-&nbsp;&nbsp;&nbsp;Twitter- [saatvik_gulati](https://twitter.com/saatvik_gulati)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Twitter- [saatvik_gulati](https://twitter.com/saatvik_gulati)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I am into gaming mobile or laptop doesn't matter
 
