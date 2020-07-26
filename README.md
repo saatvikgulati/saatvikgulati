@@ -1,7 +1,7 @@
 ### Hi I'm Saatvik Gulati 👋
 
 <!--
-**saatvikgulati/saatvikgulati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**saatvikgulati/saatvikgulati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Instagram- saatvik_gulati
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I am into gaming mobile or laptop doesn't matter
--->
